@@ -12,6 +12,7 @@ button {
   font-size: 2rem;
   padding: 1em;
   background-color: blanchedalmond;
+  margin-bottom: 1em;
 }
 
 .navbar-logo {
@@ -30,6 +31,11 @@ button {
   background-color: green;
   color: white;
   border-radius: 50%;
+}
+
+.add-form {
+  display: flex;
+  justify-content: center;
 }
 
 .add-input {
